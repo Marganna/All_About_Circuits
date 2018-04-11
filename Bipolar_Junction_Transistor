@@ -5,12 +5,13 @@ their early days of electronics development.
 Transistors are 3 terminal active devices made from different semiconductor materials which act like isolator or conductor 
 if an amount of small signal voltage is applied. These 2 abilities allows transistor to obtain 2 functions:Switching [which
 is applied in digital electronics] and amplifications [which is used in analogue electronics].
-Bipolar transistors are current regualting devices, which means it controls the current flowing through the Emitter to
-Collector. As a small amount of current flows to the E terminal, a much larger C current formes the basis. 
-The BJT is a semiconductor device which can be used for switching or amplification.
 If we combine 2 individual signal diods back-to-back, it will be ecual to 2 PN junctions connected together which shares 
 common P or common N terminal. This fusion creates 2 junctions by  3 layers and 3 terminals device which forms the basis 
 of a BJT. These 3 terminals are known as the Emiteer [E],the base [B] and the Collector [C].
+The bipolar transistor is NPN three, layer semiconductor terminals with an emitter and collector at the ends and the
+Bipolar transistors are current regualting devices, which means it controls the current flowing through the Emitter to
+Collector. As a small amount of current flows to the E terminal, a much larger C current formes the basis. 
+The BJT is a semiconductor device which can be used for switching or amplification.
 The bipolar transistor is NPN three, layer semiconductor terminals with an emitter and collector at the ends and the
 base between. it has operates with 3 different modes:
 1) Active mode: acts as an amplifier
