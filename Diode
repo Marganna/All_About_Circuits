@@ -1,0 +1,19 @@
+A diodes are semicoductor devices[ basicly made from germanium, silicon and selenium] wich allow the positive current to flow into the 1 
+direction and blocks the negative current. The operation of diode could be defined as forward biased [allowes the current], otherwise it
+is reverse biased.For silicon the forward voltage is 0.7 v , for germanium - 0.3v. In silicon diodes the dark band indicates the cathode 
+and the other terminal stands for the anode. Mostly diodes are used as reverse polarity protectors and trantioent protectors. Here are
+some types of diodes.
+
+1.Schottky Diode [named after the German physicist Walter H. Schottky]
+
+Junction is formed by contacting the semiconductor material to the metal => the forward biased voltage drop is decreased to minimum.The
+N type semicondutctor material acts as an antod and the metal [like platinum, chromium etc.]  as a cathode. The  schottky diode may  
+reduce the switching due to the metal-semiconductor junction where the voltage drop is low => increases the diode performance => reduces 
+power loss.
+
+2. Shockley Diode
+
+This is the first invented semiconductor device which has 4 layers.Also known as PNPN diode.The gate terminal is disconnected. There is no 
+trigger inputs => the only way the diode to conduct is applying forward voltage.This diode has 2 operating options: conducting and 
+non-conducting [in which state it conducts less voltage].Once it turned on, it stays on, and the reverce works the same way.
+
