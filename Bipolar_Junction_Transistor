@@ -1,11 +1,11 @@
 The first bipolar junction transistor [BJT]  invented by William Shotkay,Walter Brattain and John Bardeen at Bell Labs
 in 1947 but was published in 1948. Thus many texts differ the date of publication.
-The word Transistor is a combination of the two words Transfer Varistor which describes their mode of operation way back in
-their early days of electronics development.
+The word Transistor is a combination of the two words Transfer Varistor [a semiconductor diode with resistance dependent on the applied voltage] 
+which describes their mode of operation way back in their early days of electronics development.
 Transistors are 3 terminal active devices made from different semiconductor materials which act like isolator or conductor 
 if an amount of small signal voltage is applied. These 2 abilities allows transistor to obtain 2 functions:Switching [which
 is applied in digital electronics] and amplifications [which is used in analogue electronics].
-If we combine 2 individual signal diods back-to-back, it will be ecual to 2 PN junctions connected together which shares 
+If we combine 2 individual signal diods back-to-back, it will be equal to 2 PN junctions connected together which shares 
 common P or common N terminal. This fusion creates 2 junctions by  3 layers and 3 terminals device which forms the basis 
 of a BJT. These 3 terminals are known as the Emiteer [E],the base [B] and the Collector [C].
 The bipolar transistor is NPN three, layer semiconductor terminals with an emitter and collector at the ends and the
@@ -20,5 +20,12 @@ base between. it has operates with 3 different modes:
 There are 2 types of BJT [which depends on the physical arrangement of N and P semiconductors]: PNP & NPN.The operation
 of these 2 types basicly is the same, the only differenece is their biasing and the polarity of the power supply for each type.
 
+There are 3 baic optional ways to connect the transistor with 1 terminal common to both the input and output to the circuit with
+1)Common Base [CB] - voltage gain no current gain.
+2)Common Emitter [CE] - both gain.
+3)Common Collector [CC] - current gain, but no voltage gain.
 
+CB
+
+Common Base is also known as a ground base configuration, the base connection is common for both the input signal and the output signal
 
